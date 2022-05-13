@@ -6,3 +6,7 @@ Braveheart
 Pulp fiction
 Malditos Bastardos
 Kill Bill
+
+Pelicula de ejemplo 1
+Pelicula de ejemplo 2
+Pelicula de ejemplo 3
